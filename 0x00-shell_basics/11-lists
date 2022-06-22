@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+ls -la . .. /boot
+>>>>>>> 5e2138f9b366ec10449377ce2e7b0b7bf71bc1db
